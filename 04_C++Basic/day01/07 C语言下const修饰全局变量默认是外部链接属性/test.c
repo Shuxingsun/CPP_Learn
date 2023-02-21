@@ -1,0 +1,1 @@
+const int g_a = 1000; //外部连接属性，不需要extern
