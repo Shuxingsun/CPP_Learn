@@ -18,5 +18,13 @@
     <ClCompile Include="01 强化训练-数组类封装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="myArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

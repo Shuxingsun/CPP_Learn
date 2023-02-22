@@ -1,0 +1,4 @@
+﻿  04 递增运算符重载.cpp
+D:\Code\C++\04_C++Basic\day05\04 递增运算符重载\04 递增运算符重载.cpp(22,14): error C2535: “MyInter &MyInter::operator ++(void)”: 已经定义或声明成员函数
+D:\Code\C++\04_C++Basic\day05\04 递增运算符重载\04 递增运算符重载.cpp(16): message : 参见“MyInter::operator ++”的声明
+D:\Code\C++\04_C++Basic\day05\04 递增运算符重载\04 递增运算符重载.cpp(51,18): error C2676: 二进制“++”:“MyInter”不定义该运算符或到预定义运算符可接收的类型的转换

@@ -1,0 +1,2 @@
+﻿01 强化训练-数组类封装.obj : error LNK2001: 无法解析的外部符号 "public: int __cdecl MyArray::getData(int)" (?getData@MyArray@@QEAAHH@Z)
+D:\Code\C++\04_C++Basic\day05\01 强化训练-数组类封装\x64\Release\01 强化训练-数组类封装.exe : fatal error LNK1120: 1 个无法解析的外部命令

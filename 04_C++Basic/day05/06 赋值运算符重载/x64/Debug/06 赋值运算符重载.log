@@ -1,0 +1,10 @@
+﻿  06 赋值运算符重载.cpp
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(54,24): error C2664: “Person::Person(char *,int)”: 无法将参数 1 从“const char [4]”转换为“char *”
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(54,15): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(8,5): message : 参见“Person::Person”的声明
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(55,24): error C2664: “Person::Person(char *,int)”: 无法将参数 1 从“const char [4]”转换为“char *”
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(55,15): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(8,5): message : 参见“Person::Person”的声明
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(57,21): error C2664: “Person::Person(char *,int)”: 无法将参数 1 从“const char [1]”转换为“char *”
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(57,15): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Code\C++\04_C++Basic\day05\06 赋值运算符重载\06 赋值运算符重载.cpp(8,5): message : 参见“Person::Person”的声明
