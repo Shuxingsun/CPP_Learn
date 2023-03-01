@@ -1,0 +1,25 @@
+﻿  04 list容器.cpp
+D:\Computer_application\VStudio2022\Community\VC\Tools\MSVC\14.31.31103\include\list(1586,1): error C2678: 二进制“==”: 没有找到接受“const _Ty”类型的左操作数的运算符(或没有可接受的转换)
+          with
+          [
+              _Ty=Person
+          ]
+D:\Code\C++\05_STL\day02\04 list容器\04 list容器.cpp(195,7): message : 可能是“bool Person::operator ==(const Person &)”
+D:\Computer_application\VStudio2022\Community\VC\Tools\MSVC\14.31.31103\include\list(1586,1): message : 尝试匹配参数列表“(const _Ty, const _Ty)”时
+          with
+          [
+              _Ty=Person
+          ]
+D:\Computer_application\VStudio2022\Community\VC\Tools\MSVC\14.31.31103\include\list(1585): message : 在编译 类 模板 成员函数“auto std::list<Person,std::allocator<Person>>::remove(const _Ty &)”时
+          with
+          [
+              _Ty=Person
+          ]
+D:\Code\C++\05_STL\day02\04 list容器\04 list容器.cpp(221): message : 查看对正在编译的 类 模板 实例化“std::list<Person,std::allocator<Person>>”的引用
+D:\Computer_application\VStudio2022\Community\VC\Tools\MSVC\14.31.31103\include\list(1597,1): error C2451: 类型为“void”的条件表达式无效
+D:\Computer_application\VStudio2022\Community\VC\Tools\MSVC\14.31.31103\include\list(1597,22): message : void 类型的表达式不能转换为其他类型
+D:\Computer_application\VStudio2022\Community\VC\Tools\MSVC\14.31.31103\include\list(1586): message : 查看对正在编译的函数 模板 实例化“auto std::list<Person,std::allocator<Person>>::remove_if<std::list<Person,std::allocator<Person>>::remove::<lambda_3d1777775602e863b191005b49b245a9>>(_Pr1)”的引用
+          with
+          [
+              _Pr1=std::list<Person,std::allocator<Person>>::remove::<lambda_3d1777775602e863b191005b49b245a9>
+          ]

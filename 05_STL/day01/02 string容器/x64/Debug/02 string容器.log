@@ -1,0 +1,5 @@
+﻿  02 string容器.cpp
+D:\Code\C++\05_STL\day01\02 string容器\02 string容器.cpp(123,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\05_STL\day01\02 string容器\02 string容器.cpp(187,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\05_STL\day01\02 string容器\02 string容器.cpp(205,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  02 string容器.vcxproj -> D:\Code\C++\05_STL\day01\01 STL初识\x64\Debug\02 string容器.exe

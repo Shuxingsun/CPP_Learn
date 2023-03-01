@@ -1,0 +1,3 @@
+﻿  05 set容器.cpp
+D:\Code\C++\05_STL\day02\05 set容器\05 set容器.cpp(88,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  05 set容器.vcxproj -> D:\Code\C++\05_STL\day02\01 评委打分案例\x64\Debug\05 set容器.exe

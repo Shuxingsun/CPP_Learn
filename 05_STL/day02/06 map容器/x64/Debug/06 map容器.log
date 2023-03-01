@@ -1,0 +1,3 @@
+﻿  06 map容器.cpp
+D:\Code\C++\05_STL\day02\06 map容器\06 map容器.cpp(99,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  06 map容器.vcxproj -> D:\Code\C++\05_STL\day02\01 评委打分案例\x64\Debug\06 map容器.exe
